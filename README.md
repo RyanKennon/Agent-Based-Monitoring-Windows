@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="560" height="448" alt="image" src="https://github.com/user-attachments/assets/3b1cab95-b678-4542-9897-9239f2f81b24" />
+  <img width="560" height="448" alt="image" src="https://github.com/user-attachments/assets/cfbe7c69-7312-4582-aab0-2a4b0d50f768" />
 </p>
 
 # Windows Agent-Based Vulnerability Scanning Implementation
